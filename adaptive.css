@@ -1,0 +1,157 @@
+@media only screen and (max-width: 1226px) {
+  .container{
+    max-width: 1000px;
+  }
+
+  .art6-container{
+    max-width: 1000px;
+  }
+
+  .art7-container{
+    max-width: 1000px;
+  }
+
+  .art2-imgs{
+    width: 1080px;
+    margin: 0 auto;
+    margin-top: 35px;
+  }
+
+  .art2-img img{
+    max-width: 720px;
+    max-height: 400px;
+    min-width: 720px;
+    min-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .img2 img{
+    max-width: 720px;
+    min-width: 720px;
+    max-height: 482px;
+    min-height: 482px;
+  }
+}
+
+@media only screen and (max-width: 1082px) {
+  .container{
+    max-width: 860px;
+  }
+
+  .art6-container{
+    max-width: 860px;
+  }
+
+  .art7-container{
+    max-width: 860px;
+  }
+
+  .nav-item{
+    margin-left: 10px;
+  }
+
+  .nav-item:last-child{
+    margin-right: 20px;
+  }
+
+  .slider .slick-arrow.slick-prev{
+    background: none;
+  }
+
+  .slider .slick-arrow.slick-next{
+    background: none;
+  }
+
+  .art2-imgs{
+    width: 870px;
+    margin: 0 auto;
+    margin-top: 35px;
+  }
+
+  .art2-img img{
+    max-width: 650px;
+    max-height: 400px;
+    min-width: 650px;
+    min-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .img2 img{
+    max-width: 650px;
+    min-width: 650px;
+    max-height: 482px;
+    min-height: 482px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .slider-btns{
+    margin-top: -300px;
+  }
+
+  .slider-dots{
+    margin-top: 200px;
+  }
+
+  .hamburger{
+    display: block;
+  }
+
+  .logo-inf{
+    display: none;
+  }
+
+  .art2-imgs{
+    width: 770px;
+    margin: 0 auto;
+    margin-top: 35px;
+  }
+
+  .art2-img img{
+    max-width: 650px;
+    max-height: 320px;
+    min-width: 650px;
+    min-height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .img2 img{
+    max-width: 550px;
+    min-width: 550px;
+    max-height: 402px;
+    min-height: 402px;
+  }
+}
+
+@media only screen and (max-width: 770px) {
+  .article2{
+    display: none;
+  }
+
+  .article6{
+    display: none;
+  }
+
+  .art4-cardbtn{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 340px;
+  }
+
+  .art3-row{
+    flex-direction: column;
+  }
+
+  .art3-btn{
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 660px) {
+  .art1-card{
+    margin-right: 0;
+  }
+}
